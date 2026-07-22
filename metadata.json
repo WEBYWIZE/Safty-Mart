@@ -1,0 +1,6 @@
+{
+  "name": "SAFTY MART",
+  "description": "Your Home. Our Priority. Premier Home Safety E-Commerce Platform with PayU India Payment Gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
